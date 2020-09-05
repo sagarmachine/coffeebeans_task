@@ -20,3 +20,6 @@ secured REST end points:
 
 
 * If any other port is used other than 8081  OAuth wont work as it has to updated in googlr developer console
+
+* spring.datasource.url=jdbc:mysql://projecttrackerdb.cekwf0zsnknr.ap-south-1.rds.amazonaws.com:3306/coffeebeans
+
