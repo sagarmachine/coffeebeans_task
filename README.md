@@ -15,7 +15,7 @@ secured REST end points:
 
   GET http://localhost:8081/api/v1/client/securedpoint
   
-  POST://localhost:8081/api/v1/client/logout
+  POST http://localhost:8081/api/v1/client/logout
 
 
 
