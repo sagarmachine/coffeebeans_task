@@ -1,12 +1,20 @@
 # coffeebeans_task
 
 open REST end points:
+
   POST http://localhost:8081/api/v1/client/register
+   
   POST http://localhost:8081/api/v1/client/authenticate
+  
   GET  http://localhost:8082/oauth2/authorization/google  (OAuth2.0 google authorization endpoint)
   
+  
+  
+  
 secured REST end points:
+
   GET http://localhost:8081/api/v1/client/securedpoint
+  
   POST://localhost:8081/api/v1/client/logout
 
 
